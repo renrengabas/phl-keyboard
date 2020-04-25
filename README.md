@@ -27,3 +27,8 @@ AltGr is the ALT KEY on the RIGHT SIDE of the keyboard.
 € - AltGr 5 (euro)
 ° - AltGr 8 (degree, i.e. °F, °C)
 ```
+
+## Need your special symbol added to the list?
+Easy, just fork the code and edit. Feel free to do a pull request so that your changes can be added back to the main branch.
+
+If forking, editing and pulling requests present a challenge, feel free to send me an [email](mailto:renrengabas@gmail.com) with your symbol of desire and suggested shortcut key. My main requirement is that it has to be a symbol supported by the Arial font.
