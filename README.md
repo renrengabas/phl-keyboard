@@ -13,6 +13,7 @@ Common symbols used by the Filipino Encoder
 AltGr is the ALT KEY on the RIGHT SIDE of the keyboard.
 
 ## Common symbols and their shortcut keys
+```
 ñ - AltGr n
 Ñ - Shift AltGr n
 Ø - AltGr p (phase)
@@ -25,3 +26,4 @@ AltGr is the ALT KEY on the RIGHT SIDE of the keyboard.
 ₱ - AltGr 4 (peso)
 € - AltGr 5 (euro)
 ° - AltGr 8 (degree, i.e. °F, °C)
+```
