@@ -25,7 +25,7 @@ AltGr is the ALT KEY on the RIGHT SIDE of the keyboard.
 ³ - AltGr 3 (cube)
 ₱ - AltGr 4 (peso)
 € - AltGr 5 (euro)
-° - AltGr 8 (degree, i.e. °F, °C)
+° - AltGr 8 (degree, e.g. °F, °C)
 ```
 
 ## Need your special symbol added to the list?
