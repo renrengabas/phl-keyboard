@@ -3,7 +3,7 @@ Common symbols used by the Filipino Encoder
 
 ## Usage instructions
 1. Download and install the AutoHotkey program from autohotkey.com
-   After installing the program, it will only show a help document. DO NOT PANIC.
+   After installing the program, it will only show a help document. DO NOT PANIC. You have installed the program correctly.
 2. Download the AutoHotkeyU64.ahk file into your main Documents folder.
    * Right-click the AutoHotkeyU64.ahk file and "Run Script". You should now see an [H] icon in your system tray. 
    * If you have time, restart your computer to see if the file autoloads properly.
