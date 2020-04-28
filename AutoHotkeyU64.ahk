@@ -65,6 +65,11 @@ Return
 Send {U+00D7}
 Return
 
+;AltGr-` Approximately ≈
+>!`::
+Send {U+2248}
+Return
+
 ;AltGr-2 Superscript Two ²
 >!2::
 Send {U+00B2}
